@@ -8,6 +8,8 @@
 
 Participamos da feira do livro onde apresentamos os nosso REA para a comunidade.
 
+[feira-do-livro](20251001_104316.jpg)
+
 ## Semana 24/09 a 30/09
 
 ### Em sala de aula
