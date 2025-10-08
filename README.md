@@ -8,7 +8,7 @@
 
 Participamos da feira do livro onde apresentamos os nosso REA para a comunidade.
 
-[feira-do-livro](20251001_104316.jpg)
+![feira-do-livro](20251001_104316.jpg)
 
 ## Semana 24/09 a 30/09
 
@@ -33,7 +33,7 @@ Na dinâmica, a comunidade é convidada a escanear os QR-codes dos personagens p
 
 [Github dos personagens da computação](https://github.com/Y4ngfr/personalidades)
 
-
+![cartas](20251008_142603.jpg)
 
 
 ## Semana 17/09 a 23/09
