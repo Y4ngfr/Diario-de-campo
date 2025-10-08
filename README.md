@@ -1,22 +1,66 @@
 # Diario-de-campo
 
+## Semana 01/10 a 09/10
+
+### Em sala de aula
+
+### Fora de sala de aula
+
+Participamos da feira do livro onde apresentamos os nosso REA para a comunidade.
+
+## Semana 24/09 a 30/09
+
+### Em sala de aula
+
+Nos reunimos para discutir o andamento do REA do nosso grupo. A professora passou orientações e sugestões para desenvolvermos o nosso REA para apresentar futuramente na feira do livro e depois no Centro de Convivência e Fortalecimento de Vínculos.
+
+### Fora de sala de aula
+
+Concluímos o desenvolvimento do nosso REA para apresentação na feira do livro de Alegrete.
+
+O nosso REA possui os seguintes materiais:
+- Cartas com personagens históricos da computação e um QR-code para cada um.
+- Páginas no github abertas para o público para cada personagem histórico (contando a história de cada personagem).
+- Linha do tempo histórica da computação relacionada com cada personagem histórico.
+- Quiz de perguntas sobre cada personagem histórico.
+
+Além disso, o REA conta com uma dinâmica que conecta cada um dos materiais.
+Na dinâmica, a comunidade é convidada a escanear os QR-codes dos personagens para descobrir sobre a história de cada um. Em seguida, eles podem realizar os quizes de cada personagem. Para cada quiz realizado, uma parte da linha do tempo histórica é desbloqueada. Assim o objetivo é que diferentes pessoas contribuam para completar a linha do tempo histórica realizando pelo menos o quiz de um personagem.
+
+[Acesse a linha do tempo](https://miro.com/welcomeonboard/cEgzOUQxZDNvcmZPWTRBUnRBS0pJUFlzMytVODNJNlZyeThUaTdoaUZldERtK3BXbFM2UE5nc2NlNmk1cjkwU0thVGt5clUyaFZuYVpLeFh6Ny9Hc2xSZDJFd1QrNDNvWkZ4ZWgreXpXMzJhRG9pTW5YeUM2Y0NRWVhvdjdHTTJ0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=643703402887)
+
+[Github dos personagens da computação](https://github.com/Y4ngfr/personalidades)
+
+
+
+
+## Semana 17/09 a 23/09
+
+### Em sala de aula
+
+Participamos de uma aula sobre Recursos Educacionais Abertos e sua acessiblidade, ministrada pela professora Daniele Schmitz.
+
+![aula-REA](alua_REA.jpeg)
+
+Os Recursos Educacionais Abertos (REA) são materiais de ensino, aprendizagem e pesquisa disponibilizados de forma livre e gratuita, permitindo seu uso, adaptação e redistribuição por qualquer pessoa. Eles incluem desde textos, vídeos e imagens até cursos completos e softwares educacionais, geralmente licenciados de modo aberto, como por meio das licenças Creative Commons. A principal importância dos REA está em democratizar o acesso ao conhecimento, promovendo a equidade educacional, o compartilhamento de saberes e a colaboração entre educadores e estudantes. Além disso, os REA fortalecem a inovação pedagógica, estimulando práticas de ensino mais participativas, atualizadas e contextualizadas às diferentes realidades culturais e regionais.
+
 ## Semana 10/09 a 16/09
 
 ### Em sala de aula
+
 Apresentamos o material de divulgação de ação extensionista em computação. O nosso grupo (Yang, Wesley Nogueira e João Pedro) escolheu o programa jedi.
 
-![Programa Jedi](programa-jedi.png)
+![Aula_10/09](aula_extensionista_.jpg)
 
 O programa de extensão JEDI propõe-se a resolver problemas locais com o apoio de tecnologias computacionais e o envolvimento da comunidade (acadêmica e externa) em parceria com empresas públicas ou privadas, bem como fomentar um ecossistema de capacitação e treinamento em Tecnologias de Informação (TI).
 
+![Programa Jedi](programa-jedi.png)
+
 ### Fora da sala de aula
+
+Realizamos uma visita técnica em grupo (Yang e Renilson) no Centro de Convivência e Fortalecimento de Vínculos para conhecer o local, os projetos que são realizados e discutir novos projetos extensionistas para serem implementados lá.
+
 ![Visita Tecnica](visita_tecnica.png)
-
-
-
-
-
-
 
 ## Semana 03/09 a 09/09
 
