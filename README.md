@@ -25,14 +25,21 @@
 ### Em sala de auala
 ### Fora de sala de aula
 
+(Participação no Centro de Convivencia e Fortalencimento de Vínculos
+
 ## Semana 08/10 a 14/10
 
-### Em sala de auala
+### Em sala de aula
+
+A turma foi avaliada quanto a construção dos REAs
+(descrever mais)
+
 ### Fora de sala de aula
 
-## Semana 01/10 a 07/10
+Como tarefa para essa semana ficamos encarregados de fazer a avaliação de impacto do nosso REA apresentado no feira do livro.
+[descrever participação na feira do livro]
 
-### Em sala de aula
+## Semana 01/10 a 07/10
 
 ### Fora de sala de aula
 
