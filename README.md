@@ -1,9 +1,20 @@
 # Diario-de-campo
 
+## Semana 19/11 a 25/11
+
+### Em sala de aula
+
+Professora explicou o próximo trabalho que é no modelo de resumo do SIEPE. Explicou toda a estrutura
+
+### Fora de sala de aula
+
+Realização do trabalho proposto
+
 ## Semana 12/11 a 18/11
 
 ### Em sala de auala
-### Fora de sala de aula
+
+Turma apresentou o quadro de avaliação
 
 ## Semana 05/11 a 11/11
 
@@ -12,20 +23,25 @@
 
 ## Semana 29/10 a 04/11
 
-### Em sala de auala
 ### Fora de sala de aula
+
+Realizamos a atividade do Quadro de Avaliação: Partes interessadas.
+[descrever partes interessadas]
 
 ## Semana 22/10 a 28/10
 
 ### Em sala de auala
-### Fora de sala de aula
+
+Participamos de uma conversa com APAE, Centro Cultural e Biblioteca Mário Quintana, ONG Amoras e Secretaria do Meio Ambiente. Eles falaram o que eles fazem qual é o papel deles e quais suas demandas. Essas Instituições são Unipampa Cidadã. 
+
+![dialogos_extensionistas](dialogos_extensionistas_2.jpg)
 
 ## Semana 15/10 a 21/10
 
-### Em sala de auala
 ### Fora de sala de aula
 
-(Participação no Centro de Convivencia e Fortalencimento de Vínculos
+(Participação no Centro de Convivencia e Fortalencimento de Vínculos)
+Realizamos em grupo nossa ação extensionista de aplicação do REA. O REA foi muito melhor aplicado no CCFV do que na feira do livro. Pois no CCFV tivemos a total atenção dos alunos e um horário especial apenas para o nosso grupo executar a ação. Assim os alunos puderam passar por todas as etapas do REA corretamente, aproveitando muito mais os materiais didáticos do REA.
 
 ## Semana 08/10 a 14/10
 
