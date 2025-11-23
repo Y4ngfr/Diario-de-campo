@@ -19,7 +19,12 @@ Turma apresentou o quadro de avaliação
 ## Semana 05/11 a 11/11
 
 ### Em sala de auala
+
+Nesta semana não houve encontro em sala de aula
+
 ### Fora de sala de aula
+
+Realização da atividade: Quadro de avaliação
 
 ## Semana 29/10 a 04/11
 
