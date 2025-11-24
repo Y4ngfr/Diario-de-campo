@@ -46,6 +46,10 @@ Participamos de uma conversa com APAE, Centro Cultural e Biblioteca Mário Quint
 (Participação no Centro de Convivencia e Fortalencimento de Vínculos)
 Realizamos em grupo nossa ação extensionista de aplicação do REA. O REA foi muito melhor aplicado no CCFV do que na feira do livro. Pois no CCFV tivemos a total atenção dos alunos e um horário especial apenas para o nosso grupo executar a ação. Assim os alunos puderam passar por todas as etapas do REA corretamente, aproveitando muito mais os materiais didáticos do REA.
 
+![ccfv-1](ccfv-1.jpeg)
+![ccfv-2](ccfv-2.jpeg)
+![ccfv-3](ccfv-3.jpeg)
+
 ## Semana 15/10 a 21/10
 
 
@@ -54,16 +58,11 @@ Realizamos em grupo nossa ação extensionista de aplicação do REA. O REA foi 
 
 ### Em sala de aula
 
-A turma foi avaliada quanto a construção dos REAs. 
+A turma passou por uma avaliação referente à construção dos Recursos Educacionais Abertos (REAs).
 
-(descrever a experiência com os REAs dos outros colegas)
-Foi interessante ver o REA dos outros colegas
-Trocar ideias/experiencias. Alguns deram boas ideias e tals, derams bons relatos de experiências com os alunos, foi interessante essa troca
+Foi interessante conhecer os REA desenvolvidos pelos outros grupos. A troca de ideias e experiências foi produtiva, com colegas compartilhando boas sugestões e relatos sobre a aplicação dos recursos com seus alunos. Esse momento de compartilhamento se mostrou um ponto positivo da atividade.
 
-(descrever pontos levantados pelas professoras para o nosso REA
-Professoras nos atentaram para o caráter aberto do nosso REA, lembraram que devemos revisar as imagens utilizadas para ver se estão em domínio público, assim como as referências dos textos. Todos esses aspectos foram corrigidos após a avaliação das professoras.
-
-(descrever mais)
+Durante a avaliação da nossa atividade as professoras alertaram para garantir o caráter verdadeiramente aberto do nosso recurso. Elas recomendaram que revisássemos as imagens e as referências textuais utilizadas, para confirmar se estão em domínio público ou sob licença de uso adequada. Todos esses aspectos foram devidamente ajustados após o feedback recebido.
 
 ### Fora de sala de aula
 
