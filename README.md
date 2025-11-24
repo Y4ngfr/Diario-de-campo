@@ -41,24 +41,40 @@ Participamos de uma conversa com APAE, Centro Cultural e Biblioteca Mário Quint
 
 ![dialogos_extensionistas](dialogos_extensionistas_2.jpg)
 
-## Semana 15/10 a 21/10
-
 ### Fora de sala de aula
 
 (Participação no Centro de Convivencia e Fortalencimento de Vínculos)
 Realizamos em grupo nossa ação extensionista de aplicação do REA. O REA foi muito melhor aplicado no CCFV do que na feira do livro. Pois no CCFV tivemos a total atenção dos alunos e um horário especial apenas para o nosso grupo executar a ação. Assim os alunos puderam passar por todas as etapas do REA corretamente, aproveitando muito mais os materiais didáticos do REA.
 
+## Semana 15/10 a 21/10
+
+
+
 ## Semana 08/10 a 14/10
 
 ### Em sala de aula
 
-A turma foi avaliada quanto a construção dos REAs
+A turma foi avaliada quanto a construção dos REAs. 
+
+(descrever a experiência com os REAs dos outros colegas)
+Foi interessante ver o REA dos outros colegas
+Trocar ideias/experiencias. Alguns deram boas ideias e tals, derams bons relatos de experiências com os alunos, foi interessante essa troca
+
+(descrever pontos levantados pelas professoras para o nosso REA
+Professoras nos atentaram para o caráter aberto do nosso REA, lembraram que devemos revisar as imagens utilizadas para ver se estão em domínio público, assim como as referências dos textos. Todos esses aspectos foram corrigidos após a avaliação das professoras.
+
 (descrever mais)
 
 ### Fora de sala de aula
 
-Como tarefa para essa semana ficamos encarregados de fazer a avaliação de impacto do nosso REA apresentado no feira do livro.
-[descrever participação na feira do livro]
+Como tarefa da semana, foi realizada a avaliação de impacto do nosso Recurso Educacional Aberto (REA), apresentado durante a Feira do Livro.
+
+A atividade foi bem recebida pelos visitantes que passaram pela nossa exposição. A maioria demonstrou interesse nas cartas, o que criou a oportunidade para explicarmos o projeto e convidar os participantes a escanear os QR Codes.
+
+Caso houvesse interesse, o participante poderia então completar a dinâmica do REA, explorando o material com mais calma e realizando os quizzes. Dessa forma, conseguimos envolver um número razoável de pessoas que concluíram todo o ciclo proposto pela atividade.
+
+Enfrentamos um problema técnico: muitos dos participantes, especialmente alunos em visita escolar, não possuíam celular para escanear os códigos. Para resolver essa situação, disponibilizamos um aparelho do nosso grupo para que pudessem acessar o material.
+
 
 ## Semana 01/10 a 07/10
 
@@ -67,6 +83,7 @@ Como tarefa para essa semana ficamos encarregados de fazer a avaliação de impa
 Participamos da feira do livro onde apresentamos os nosso REA para a comunidade.
 
 ![feira-do-livro](20251001_104316.jpg)
+
 
 ## Semana 24/09 a 30/09
 
