@@ -37,14 +37,17 @@ Realizamos a atividade do Quadro de Avaliação: Partes interessadas.
 
 ### Em sala de auala
 
-Participamos de uma conversa com APAE, Centro Cultural e Biblioteca Mário Quintana, ONG Amoras e Secretaria do Meio Ambiente. Eles falaram o que eles fazem qual é o papel deles e quais suas demandas. Essas Instituições são Unipampa Cidadã. 
+Na última semana, foi realizada uma sessão de diálogo com representantes de cinco entidades de relevância sociocultural e ambiental na região: a APAE, o Centro Cultural e Biblioteca Mário Quintana, a ONG Amoras e a Secretaria Municipal do Meio Ambiente.
+
+O encontro, inserido no âmbito do projeto de extensão "Unipampa Cidadã", proporcionou a exposição detalhada das atividades, missões institucionais e demandas específicas de cada organização.
+
+O projeto Unipampa Cidadã conecta a universidade com a comunidade. Por meio dele, a universidade leva conhecimento e apoio às instituições locais que precisam de ajuda, enquanto os alunos ganham experiência prática e aprendem sobre problemas reais. Essa troca beneficia todos: a comunidade recebe suporte qualificado e a universidade forma profissionais mais preparados e conscientes do seu papel na sociedade.
 
 ![dialogos_extensionistas](dialogos_extensionistas_2.jpg)
 
 ### Fora de sala de aula
 
-(Participação no Centro de Convivencia e Fortalencimento de Vínculos)
-Realizamos em grupo nossa ação extensionista de aplicação do REA. O REA foi muito melhor aplicado no CCFV do que na feira do livro. Pois no CCFV tivemos a total atenção dos alunos e um horário especial apenas para o nosso grupo executar a ação. Assim os alunos puderam passar por todas as etapas do REA corretamente, aproveitando muito mais os materiais didáticos do REA.
+Aplicamos o nosso Recurso Educacional Aberto (REA) no CCFV. A ação foi muito mais eficiente do que na Feira do Livro, pois no CCFV tivemos condições ideais: recebemos a atenção completa dos alunos e um horário reservado especialmente para nossa atividade. Essa organização permitiu que seguíssemos todo o planejamento original, possibilitando que os participantes realizassem cada etapa proposta do REA na ordem correta e sem interrupções. Como resultado, o aproveitamento do material foi muito maior, e o interesse dos alunos pelo conteúdo sobre história da computação foi significativamente melhor. Esta experiência comprovou como um ambiente organizado e dedicado contribui diretamente para o sucesso de ações de extensão universitária.
 
 ![ccfv-1](ccfv-1.jpeg)
 ![ccfv-2](ccfv-2.jpeg)
@@ -52,7 +55,17 @@ Realizamos em grupo nossa ação extensionista de aplicação do REA. O REA foi 
 
 ## Semana 15/10 a 21/10
 
+### Em sala de aula
 
+Na aula dessa semana nos foi apresentado conteúdos novos como: análise de domínio, diagnóstico semiótico e quadro de avaliação.
+
+Esse conteúdo se baseia em cinco artefatos principais, que guiam a compreensão do problema e a proposição de soluções:
+
+- Contextualização: Definição do escopo e dos limites do domínio a ser investigado.
+- Artefatos: Identificação dos elementos tangíveis e intangíveis que compõem o domínio.
+- Diagrama de Partes Interessadas: Mapeamento de todos os atores envolvidos.
+- Quadro de Avaliação: Ferramenta para registrar problemas e soluções.
+- Escada Semiótica: Estrutura teórica para analisar diferentes níveis de significado.
 
 ## Semana 08/10 a 14/10
 
