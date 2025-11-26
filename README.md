@@ -24,14 +24,25 @@ Nesta semana não houve encontro em sala de aula
 
 ### Fora de sala de aula
 
-Realização da atividade: Quadro de avaliação
+Para cada camada de partes interessadas, foram identificados desafios específicos e formuladas propostas de intervenção:
+
+- Camada Técnica: O principal problema identificado foi a dependência excessiva de tecnologia, que pode limitar o acesso ao material. Como solução, propõe-se o desenvolvimento de biografias impressas como alternativa complementar.
+
+- Camada Formal: Constatou-se que o material pode não estabelecer conexão adequada com os interesses de todos os jovens. Para enfrentar esta questão, sugere-se a implementação de formulários simples de feedback junto aos alunos.
+
+- Camada Informal: Identificou-se que as famílias frequentemente não compreendem o valor pedagógico das atividades. Como estratégia de superação, recomenda-se a criação de um canal no WhatsApp para compartilhar as atividades desenvolvidas e seus objetivos educacionais com as famílias.
 
 ## Semana 29/10 a 04/11
 
 ### Fora de sala de aula
 
-Realizamos a atividade do Quadro de Avaliação: Partes interessadas.
-[descrever partes interessadas]
+Realizamos o mapeamento completo das partes interessadas envolvidas no projeto:
+
+- Camada Técnica: Inclui a Equipe de Desenvolvimento do REA (Recurso Educacional Aberto), a Coordenação do Projeto de Extensão e o CCFV, que fornece o espaço físico e acesso aos usuários finais.
+
+- Camada Formal: Engloba os alunos do 6º ano ao Ensino Médio do CCFV, educadores e mediadores (estagiários e coordenadora), bolsistas e extensionistas que aplicam o REA, escolas parceiras (Gaspar Martins e Lauro Dornelles) e professores universitários orientadores.
+
+- Camada Informal: Compreende as famílias dos jovens atendidos e a comunidade escolar local, atores que sofrem impacto indireto mas significativo do projeto.
 
 ## Semana 22/10 a 28/10
 
