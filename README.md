@@ -1,5 +1,21 @@
 # Diario-de-campo
 
+## Semana 03/12 a 09/12
+
+### Em sala de aula
+
+Nosso último encontro em sala de aula, ouvimos os últimos alunos que faltaram falar sobre a experiência deles na descilpina. Também discutimos mais sobre o plano de integralização das horas de extensão, e as professoras deixaram as suas impressões sobre a a experiencia na disciplina, Realizamos uma dinamica no site xxxx onde colocamos palaras qu representassem a nossa experiencia na disciplina, o quadro ficou assim:
+
+
+
+### Fora de sala de aula
+
+## Semana 26/11 a 02/12
+
+### Em sala de aula
+
+### Fora de sala de aula
+
 ## Semana 19/11 a 25/11
 
 ### Em sala de aula
