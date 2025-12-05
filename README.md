@@ -6,7 +6,7 @@
 
 Nosso último encontro em sala de aula, ouvimos os últimos alunos que faltaram falar sobre a experiência deles na descilpina. Também discutimos mais sobre o plano de integralização das horas de extensão, e as professoras deixaram as suas impressões sobre a a experiencia na disciplina, Realizamos uma dinamica no site xxxx onde colocamos palaras qu representassem a nossa experiencia na disciplina, o quadro ficou assim:
 
-
+![quadro_mentimeter](quadro_mentimeter.png)
 
 ### Fora de sala de aula
 
