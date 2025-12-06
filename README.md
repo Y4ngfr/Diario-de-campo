@@ -20,10 +20,6 @@ Também realizei o formulário de avaliaçõa da disciplina no Moodle, considero
 
 Fizemos uma roda de conversa para compartilhar nossas experiencias na disciplina, foi muitas experiencias que oponiões para ajudar a melhorar a disciplina no futuro, é muito importante a opinião dos colegas para esse fim. Também falei sobre a minha opinião de que achei interessante o método de ciclo de ação extensionista, foi o prinicpal elemento que coloquei no meu texto de resumo do SIEPE, também dei a sujestão de as professoras darem maior foco para ajudar os alunos a se organizarem nas primeiras semanas na disciplina, pois ela exige uma forma de organização completamente diferente das demais
 
-### Fora de sala de aula
-
-
-
 ## Semana 19/11 a 25/11
 
 ### Em sala de aula
@@ -39,7 +35,7 @@ Realização do trabalho proposto
 
 ### Em sala de auala
 
-Turma apresentou o quadro de avaliação. Ficou evidente que a maioria dos grupos realizou o trabalho de forma errada (incluindo o nosso), pois realizamos a atividade como se fosse uma avaliação posterior das ações de extensão realizadas, tanto planejamento e execução (na feira do livro e no CCFV no caso do TRAMAS). Porém o objetivo real do trabalho era levantar as demandas das instituições que recebemos na semana 22/ a 28 
+Turma apresentou o quadro de avaliação. Ficou evidente que a maioria dos grupos realizou o trabalho de forma errada (incluindo o nosso), pois realizamos a atividade como se fosse uma avaliação posterior das ações de extensão realizadas, tanto planejamento e execução (na feira do livro e no CCFV no caso do TRAMAS). Porém o objetivo real do trabalho ia mais no sentido de levantar as demandas das instituições que recebemos na semana 22/10 a 28/10 fazendo a visita de campo para deixar como perspectiva futura para comprimento das horas de extensão como Unipampa Cidadã.
 
 ## Semana 05/11 a 11/11
 
