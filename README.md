@@ -62,7 +62,11 @@ Concluí que o êxito dependeu do detalhamento do planejamento e da capacidade d
 
 ### Em sala de auala
 
-Turma apresentou o quadro de avaliação. Ficou evidente que a maioria dos grupos realizou o trabalho de forma errada (incluindo o nosso), pois realizamos a atividade como se fosse uma avaliação posterior das ações de extensão realizadas, tanto planejamento e execução (na feira do livro e no CCFV no caso do TRAMAS). Porém o objetivo real do trabalho ia mais no sentido de levantar as demandas das instituições que recebemos na semana 22/10 a 28/10 fazendo a visita de campo para deixar como perspectiva futura para comprimento das horas de extensão como Unipampa Cidadã.
+A turma apresentou o quadro de avaliação, e foi interessante observar os resultados. Ficou evidente que a maioria dos grupos, incluindo o nosso, realizou o trabalho de forma equivocada.
+
+Inicialmente, interpretamos a atividade como uma avaliação retrospectiva das ações de extensão já realizadas - tanto o planejamento quanto a execução (no meu caso, na feira do livro e no CCFV através do projeto TRAMAS). No entanto, o objetivo real do trabalho era bem diferente.
+
+O trabalho deveria levantar as demandas das instituições que recebemos durante a visita de campo na semana de 22/10 a 28/10, para deixar essas demandas como perspectivas futuras para o cumprimento das horas de extensão através do Unipampa Cidadã.
 
 ## Semana 05/11 a 11/11
 
