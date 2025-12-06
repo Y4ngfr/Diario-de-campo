@@ -4,21 +4,37 @@
 
 ### Em sala de aula
 
-Nosso último encontro em sala de aula, ouvimos os últimos alunos que faltaram falar sobre a experiência deles na descilpina. Também discutimos mais sobre o plano de integralização das horas de extensão, e as professoras deixaram as suas impressões sobre a a experiencia na disciplina, Realizamos uma dinamica no site Mentimeter onde colocamos palaras qu representassem a nossa experiencia na disciplina, o quadro ficou assim:
+No nosso último encontro presencial, tivemos a oportunidade de ouvir os relatos finais dos colegas sobre suas experiências na disciplina. Acredito que nesta última conversa os colegas corroboraram com as opiniões que foram deixadas no último encontro - de que a disciplina foi bastante difícil e desafiadora. Prova disso foi o resultado da dinâmica no site Mentimeter onde cada um deveria colocar palavras que representassem sua experiência na disciplina. O resultado foi interessante e reflete bem o que experienciamos neste semestre:
 
 ![quadro_mentimeter](quadro_mentimeter.png)
 
+Também aproveitamos o momento para discutir mais detalhadamente o plano de integralização das horas de extensão, e as professoras compartilharam suas impressões sobre a experiência de lecionar esta disciplina. Acredito que também foi desafiador para as professoras pois foi a primeira aplicação dessa cadeira e há muitos pontos que com certeza elas vão levar em consideração para o futuro, novos materiais e abordagens serão implementados para mitigar os principais problemas que enfrentamos durante o curso do semestre. 
+
 ### Fora de sala de aula
 
-Realizei a entrega individual o plano de integralização das horas de extensão. Tenho planejado o cumprimento das minhas horas de extensão no Pretendo ccompletar minhas horas de unipampa cidadã aplicando ações extensionistas em 2026/1 no município de Uruguaiana. Meu planejamento é aplicar projetos em escolas da rede pública ou instituto federal (público alvo: alunos), trabalhando com monitoria para os alunos da sala de recursos do instituto federal ou oficinas voltadas para área da tecnologia (oficina de programação) se for em escolas estaduais/municipais. Essas atividades estão abertas a modificações caso outra demanda seja mais apropriada na escola que irei trabalhar.
+Durante esta semana, realizei a entrega individual do plano de integralização das horas de extensão. Estou planejando completar minhas horas no Unipampa Cidadã aplicando ações extensionistas no primeiro semestre de 2026 no município de Uruguaiana.
 
-Também realizei o formulário de avaliaçõa da disciplina no Moodle, considero que as principais contribuições da disciplina para mim foi a capacidade de ĺanejar ima ação extensionista de forma estruturadad e, cpm os intrumentos e  métodos certos
+Minha estratégia é desenvolver projetos em escolas da rede pública ou no Instituto Federal, com público alvo de alunos do fundamental ao médio e com duass possíveis abordagens de extensão:
+
+- Monitoria para estudantes da sala de recursos do IF.
+- Oficinas na área de tecnologia, especialmente oficinas de programação para escolas estaduais e municipais.
+  
+Estou aberto a ajustes conforme as necessidades específicas da instituição onde vou trabalhar. Se surgir uma demanda diferente e mais adequada durante a abordagem, estarei disposto a adaptar o projeto.
+
+Também completei o formulário de avaliação da disciplina no Moodle. Para mim, as principais contribuições desta disciplina foram:
+
+- Aprender a planejar uma ação extensionista de forma estruturada
+- Conhecer os instrumentos e métodos adequados para esse tipo de trabalho
 
 ## Semana 26/11 a 02/12
 
 ### Em sala de aula
 
-Fizemos uma roda de conversa para compartilhar nossas experiencias na disciplina, foi muitas experiencias que oponiões para ajudar a melhorar a disciplina no futuro, é muito importante a opinião dos colegas para esse fim. Também falei sobre a minha opinião de que achei interessante o método de ciclo de ação extensionista, foi o prinicpal elemento que coloquei no meu texto de resumo do SIEPE, também dei a sujestão de as professoras darem maior foco para ajudar os alunos a se organizarem nas primeiras semanas na disciplina, pois ela exige uma forma de organização completamente diferente das demais
+Participamos de uma roda de conversa muito interessante para compartilhar nossas experiências pessoais na disciplina. Foi valiosa essa troca de opiniões, pois acreditamos que é fundamental ouvir a perspectiva dos colegas para melhorar a disciplina no futuro.
+
+A impressão que tive ouvindo os colegas é que muitos tiveram dificuldades e desafios para superar durante o curso da disciplina, porém foi uma experiência boa e enriquecedora para a nossa formação.
+
+Durante minha participação, destaquei como achei particularmente interessante o método do ciclo de ação extensionista. Esse foi o principal elemento que enfoquei no meu resumo do SIEPE. Também sugeri às professoras que dedicassem mais atenção ao período inicial da disciplina, para ajudar os alunos a se organizarem, já que esta metodologia exige uma forma de organização completamente diferente das demais disciplinas tradicionais.
 
 ## Semana 19/11 a 25/11
 
