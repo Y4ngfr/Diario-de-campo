@@ -40,12 +40,23 @@ Durante minha participação, destaquei como achei particularmente interessante 
 
 ### Em sala de aula
 
-Professora explicou o próximo trabalho que é no modelo de resumo do SIEPE. Explicou toda a estrutura
+A professora explicou detalhadamente o próximo trabalho que seria elaborado no modelo de resumo do SIEPE. Ela apresentou a estrutura completa que deveria ser seguida, incluindo os elementos necessários para organizar o texto, os objetivos a serem destacados e como contextualizar adequadamente a experiência vivenciada na disciplina.
 
 ### Fora de sala de aula
 
-Realização do trabalho proposto
-[escrever mais sobre a realização do trabalho]
+Elaborei o resumo seguindo a estrutura proposta. O artigo apresentou um relato da experiência vivenciada no componente curricular Extensão Universitária em Computação no segundo semestre de 2025.
+
+No texto, estruturei o conteúdo destacando o objetivo geral da disciplina, que é desenvolver conhecimentos e competências para planejar, implementar e avaliar ações extensionistas na área de Computação, com foco específico no vivenciar do ciclo completo de uma ação de extensão universitária.
+
+Expliquei a metodologia adotada, baseada no ciclo de planejamento, execução e avaliação. A pesquisa inicial sobre programas existentes na universidade fundamentou o planejamento. Na fase de planejamento, formação de grupos e formalização da proposta, cada grupo desenvolveu um Recurso Educacional Aberto (REA). No nosso caso, o grupo (Yang e Renilson Pereira Torres) criou cartas com personagens históricos da computação com QR Codes, páginas no GitHub com biografias, linha do tempo histórica e quiz de perguntas.
+
+O local definido foi o Centro de Convivência e Fortalecimento de Vínculos (CCFV) para alunos do sexto ano do ensino fundamental ao terceiro ano do ensino médio. Realizei um piloto na Feira do Livro de Alegrete para testar materiais e dinâmica, identificando problemas como a falta de celulares entre as crianças.
+
+A aplicação principal ocorreu no CCFV em 23 de outubro, para crianças e adolescentes. A aplicação no CCFV tiveram resultados qualitativamente superiores ao da Feira do Livro, permitindo engajamento mais profundo dos participantes.
+
+Na avaliação, usei o Quadro de Avaliação considerando feedbacks dos alunos, colegas e professoras para identificar melhorias. Os benefícios incluíram acesso democratizado ao conhecimento, promoção da inclusão digital e desenvolvimento de competências em design pedagógico.
+
+Concluí que o êxito dependeu do detalhamento do planejamento e da capacidade de adaptação durante a execução, com a Feira do Livro funcionando como teste prático e o CCFV demonstrando a eficácia de ambiente controlado e tempo dedicado.
 
 ## Semana 12/11 a 18/11
 
