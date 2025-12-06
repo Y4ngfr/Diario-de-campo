@@ -4,17 +4,25 @@
 
 ### Em sala de aula
 
-Nosso último encontro em sala de aula, ouvimos os últimos alunos que faltaram falar sobre a experiência deles na descilpina. Também discutimos mais sobre o plano de integralização das horas de extensão, e as professoras deixaram as suas impressões sobre a a experiencia na disciplina, Realizamos uma dinamica no site xxxx onde colocamos palaras qu representassem a nossa experiencia na disciplina, o quadro ficou assim:
+Nosso último encontro em sala de aula, ouvimos os últimos alunos que faltaram falar sobre a experiência deles na descilpina. Também discutimos mais sobre o plano de integralização das horas de extensão, e as professoras deixaram as suas impressões sobre a a experiencia na disciplina, Realizamos uma dinamica no site Mentimeter onde colocamos palaras qu representassem a nossa experiencia na disciplina, o quadro ficou assim:
 
 ![quadro_mentimeter](quadro_mentimeter.png)
 
 ### Fora de sala de aula
 
+Realizei a entrega individual o plano de integralização das horas de extensão. Tenho planejado o cumprimento das minhas horas de extensão no Pretendo ccompletar minhas horas de unipampa cidadã aplicando ações extensionistas em 2026/1 no município de Uruguaiana. Meu planejamento é aplicar projetos em escolas da rede pública ou instituto federal (público alvo: alunos), trabalhando com monitoria para os alunos da sala de recursos do instituto federal ou oficinas voltadas para área da tecnologia (oficina de programação) se for em escolas estaduais/municipais. Essas atividades estão abertas a modificações caso outra demanda seja mais apropriada na escola que irei trabalhar.
+
+Também realizei o formulário de avaliaçõa da disciplina no Moodle, considero que as principais contribuições da disciplina para mim foi a capacidade de ĺanejar ima ação extensionista de forma estruturadad e, cpm os intrumentos e  métodos certos
+
 ## Semana 26/11 a 02/12
 
 ### Em sala de aula
 
+Fizemos uma roda de conversa para compartilhar nossas experiencias na disciplina, foi muitas experiencias que oponiões para ajudar a melhorar a disciplina no futuro, é muito importante a opinião dos colegas para esse fim. Também falei sobre a minha opinião de que achei interessante o método de ciclo de ação extensionista, foi o prinicpal elemento que coloquei no meu texto de resumo do SIEPE, também dei a sujestão de as professoras darem maior foco para ajudar os alunos a se organizarem nas primeiras semanas na disciplina, pois ela exige uma forma de organização completamente diferente das demais
+
 ### Fora de sala de aula
+
+
 
 ## Semana 19/11 a 25/11
 
@@ -25,12 +33,13 @@ Professora explicou o próximo trabalho que é no modelo de resumo do SIEPE. Exp
 ### Fora de sala de aula
 
 Realização do trabalho proposto
+[escrever mais sobre a realização do trabalho]
 
 ## Semana 12/11 a 18/11
 
 ### Em sala de auala
 
-Turma apresentou o quadro de avaliação
+Turma apresentou o quadro de avaliação. Ficou evidente que a maioria dos grupos realizou o trabalho de forma errada (incluindo o nosso), pois realizamos a atividade como se fosse uma avaliação posterior das ações de extensão realizadas, tanto planejamento e execução (na feira do livro e no CCFV no caso do TRAMAS). Porém o objetivo real do trabalho era levantar as demandas das instituições que recebemos na semana 22/ a 28 
 
 ## Semana 05/11 a 11/11
 
